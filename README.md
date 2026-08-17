@@ -1,6 +1,7 @@
 # Hi, I'm Nihat 👋
 
 🚀 Aspiring **Data Scientist & ML Engineer**  
+⛩️ Undergraduate **Computer Science & Technology** student at the Beijing Institute of Technology 
 💡 Passionate about **AI, Fullstack Development, and Startups**  
 
 ---
@@ -9,14 +10,12 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
 
 ---
@@ -30,12 +29,6 @@
 ## 🏆 Achievements
 - 🥇 **Gold Medal (4th place)** – International STEM Competition (Computer Science)  
 - 💻 Multiple hackathons + research-based competitions  
-
----
-
-## 📊 GitHub Stats
-![Nihat's GitHub stats](https://github-readme-stats.vercel.app/api?username=NihatMursalli&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NihatMursalli&layout=compact&theme=tokyonight)
 
 ---
 
